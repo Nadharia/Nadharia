@@ -44,7 +44,7 @@
 ## 📬 Contacto
 
 - 📧 Email: joakormr@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/joaco]((https://www.linkedin.com/in/joaqu%C3%ADn-romero-5b1586165/))  
+- 💼 LinkedIn: [linkedin.com/in/joaco](https://www.linkedin.com/in/joaqu%C3%ADn-romero-5b1586165/)  
 - 🐙 GitHub: [github.com/Nadharia](https://github.com/Nadharia)
 
 ---
