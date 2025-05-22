@@ -1,9 +1,9 @@
 <h1 align="center">✨ Hola, soy Nadharia</h1>
 
 <p align="center">
-  🚀 Desarrolladora Fullstack orientada a Back-End<br/>
-  💼 Apasionada por construir soluciones reales con tecnologías modernas<br/>
-  🌍 Argentina | 👩‍💻 En constante formación y evolución
+  🚀 Desarrollador Fullstack orientado al Back-End<br/>
+  💼 Apasionado por construir soluciones reales con tecnologías modernas<br/>
+  🌍 Argentina | 👨‍💻 En constante formación y evolución
 </p>
 
 ---
