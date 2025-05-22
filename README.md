@@ -35,9 +35,9 @@
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
 | 🛍️ **E-commerce PyME** | Sistema de ventas completo con gestión de usuarios y stock | Spring Boot · React · MySQL |
-| 📆 **Turnos Médicos** | API REST para reservas de turnos | Spring Boot · JPA · REST |
-| 📑 **PDF Generator** | Exporta reportes en PDF usando JasperReports | Java · JasperReports |
-| 📢 **Notificador** | Envío de emails y SMS a clientes | JavaMailSender · Twilio |
+| 📆 **Billetual Billetera Virtual** |Billetera virtual con funcionabilidades sobre interes de capital y manejo de usd | Spring Boot · JPA · REST · React · Security · JUnit · JWT · Tailwind |
+
+
 
 ---
 
